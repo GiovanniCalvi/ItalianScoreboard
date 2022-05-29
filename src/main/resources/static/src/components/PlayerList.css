@@ -1,0 +1,33 @@
+.player-list-wrapper {
+    text-align: center;
+}
+
+.modal-content {
+    text-align: center;
+}
+
+.stats-wrapper {
+    text-align: left;
+}
+
+.left-col {
+    padding: 7% 0;
+}
+
+.form-wrapper {
+    padding: 0 20%;
+    margin: 20px 0;
+}
+
+.add-player > div {
+    margin: 7px;
+}
+
+.wrong-pass {
+    color: red;
+    font-size: 10px;
+}
+
+.button {
+    margin: 1%;
+}

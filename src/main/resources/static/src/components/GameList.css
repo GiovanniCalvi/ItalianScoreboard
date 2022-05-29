@@ -1,0 +1,32 @@
+.game-list-wrapper {
+    text-align: center;
+}
+
+.button-games {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;	
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #0e27df;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 7px 7px #999;
+  margin: 1%;
+  text-transform: uppercase;
+}
+
+.button-games:hover {
+    background-color: #00d1dc;
+    color: black
+}
+
+.button-games:active {
+  background-color: #00d1dc;
+  box-shadow: 4px 4px #666;
+  transform: translateY(4px);
+  color: black;
+}
